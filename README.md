@@ -16,6 +16,10 @@ Figure1: After writing the above code in our .js file when we typed ```deploy ak
  Here we have use the word ```node``` means we want to run the above javascript code using node.js <br>
  ```node``` is used for running backend Javascript code <br>
 
+ ```uint256 variable =5``` in Solidity is same as that of ```let variable = 5``` of Javascript <br>
+
+ 
+
 
  
 
