@@ -34,7 +34,28 @@ The above code will print the following:
  ![e60](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/0b220d97-529c-4c55-9c84-d73a01badd60)
  Figure2: When we click ```node``` then clik ```ak``` then click the ```Tab``` button and click ```Enter``` button
 
+
+ ```javascript
+
+function main() {
+  console.log("Khatami");
+
+  let variable = 5;
+
+  console.log(variable);
+}
+
+```
+
+the above code will give the following no output
+
+
+ ![e61](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/81842b5c-ca26-4def-93d8-f0a08ec918d6)
+
+ Figure3: It is because we have wrapped the whole code in a function <br>
+
  
+
 
 
  
