@@ -105,7 +105,8 @@ we can have another code to get executed <br>
 example of synchronous programming throug a sentence:
 
 Mr Ali have arrnge dinner party by inviting frinds in his house. His mother is cooking fried chickens.<br>
-Until the fried chicken is cooked he waits. Then he pour drinking water from bottle to glass. Then serve the food and start<br<
+Until the fried chicken is cooked he waits. Then he pour drinking water from bottle to glass. 
+Then serve the food and start<br>
 the dinner party <br>
 
 
