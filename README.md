@@ -52,7 +52,9 @@ the above code will give the following no output
 
  ![e61](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/81842b5c-ca26-4def-93d8-f0a08ec918d6)
 
- Figure3: It is because we have wrapped the whole code in a function <br>
+ Figure3: It is because we have wrapped the whole code in a function and want something to call the function <br>
+
+ 
 
  
 
