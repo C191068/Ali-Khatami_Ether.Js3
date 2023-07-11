@@ -54,7 +54,26 @@ the above code will give the following no output
 
  Figure3: It is because we have wrapped the whole code in a function and want something to call the function <br>
 
- 
+ ```javascript
+
+function main() {
+  console.log("Khatami");
+
+  let variable = 5;
+
+  console.log(variable);
+}
+
+main();
+
+```
+
+the above code will give the following output <br>
+
+
+
+ ![e62](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/18977172-bdfd-43ea-b28f-59ab90088b7d)
+
 
  
 
