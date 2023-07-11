@@ -96,6 +96,8 @@ main();
 In the above code after calling of the ```main()``` function other lines of code gets executed one after another <br>
 
 
+Javascript is an asynchronous programming language <br>
+
 
 
 
