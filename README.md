@@ -14,6 +14,10 @@ Figure1: After writing the above code in our .js file when we typed ```deploy ak
  it will print the above <br>
 
  Here we have use the word ```node``` means we want to run the above javascript code using node.js <br>
+ ```node``` is used for running backend Javascript code <br>
+
+
+ 
 
  
  
