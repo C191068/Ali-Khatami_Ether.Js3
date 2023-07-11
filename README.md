@@ -74,7 +74,11 @@ the above code will give the following output <br>
 
  ![e62](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/18977172-bdfd-43ea-b28f-59ab90088b7d)
 
-Solidity is an example of ```synchronous``` programming language .
+Solidity is an example of ```synchronous``` programming language. <br>
+
+Synchronous programming language means it goes one line after another <br>
+
+
 
 
  
