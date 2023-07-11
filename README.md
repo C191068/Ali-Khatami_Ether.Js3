@@ -99,7 +99,24 @@ main();
 In the above code after calling of the ```main()``` function other lines of code gets executed one after another <br>
 
 
-Javascript is an asynchronous programming language <br>
+Javascript is an asynchronous programming language because while waiting for one line code to get executed<br>
+we can have another code to get executed <br>
+
+example of synchronous programming throug a sentence:
+
+Mr Ali have arrnge dinner party by inviting frinds in his house. His mother is cooking fried chickens.<br>
+Until the fried chicken is cooked he waits. Then he pour drinking water from bottle to glass. Then serve the food and start<br<
+the dinner party <br>
+
+
+example of asynchronous programming throug a sentence:
+
+Mr Ali have arrnge dinner party by inviting frinds in his house. His mother is cooking fried chickens.<br>
+He does not wait until the fried chicken is cooked thus he pour drinking water from bottle to glass.<br>
+After the fried chicken is cooked <br>
+Then serve the food and start<br>
+the dinner party <br>
+
 
 
 
