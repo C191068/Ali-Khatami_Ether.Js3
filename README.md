@@ -76,7 +76,27 @@ the above code will give the following output <br>
 
 Solidity is an example of ```synchronous``` programming language. <br>
 
-Synchronous programming language means it goes one line after another <br>
+Synchronous programming language means where one line gets executed one after another <br>
+
+ ```javascript
+
+function main() {
+  console.log("Khatami");
+
+  let variable = 5;
+
+  console.log(variable);
+}
+
+main();
+
+```
+
+
+In the above code after calling of the ```main()``` function other lines of code gets executed one after another <br>
+
+
+
 
 
 
