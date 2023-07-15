@@ -141,6 +141,32 @@ function arrangedinnerparty() {
 ```
 
 
+```javascript
+
+
+//Arrange Dinner party
+//Cook Fried Chicken
+//Pour Water
+//Start party
+
+function arrangedinnerparty() {
+  cookfriedchicken();
+  pourwater();
+}
+
+function cookfriedchicken() {
+  return Promise();
+}
+
+```
+
+
+
+
+If any of the function inside ```function arrangedinnerparty()``` suppose ```cookfriedchicken()``` return Promise like above <br>
+
+we have to tell our code to wait until the the fried chicken is fully cooked <br>
+
 
 
 
