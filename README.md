@@ -328,6 +328,9 @@ Figure8: to solve the problem we have to use the above command and thus we see t
 
 Figure9: To add solidity compiler we add the above commands shown with position number <br>
 
+![f10](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/a53a3a2d-9998-4e2b-857a-ba631ccb05ed)
+
+Figure10: it automatically added package.json folder , it talks lot about our project and the dependncies it works with<br>
 
 
  
