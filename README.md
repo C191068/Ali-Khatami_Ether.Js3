@@ -218,7 +218,7 @@ In the above code ```startparty()``` function will only be called if the ```cook
 
 have been executed <br>
 
-here below we amde another change <br>
+here below we made another change <br>
 
 ```javascript
 
