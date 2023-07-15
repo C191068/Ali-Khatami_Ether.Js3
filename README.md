@@ -120,6 +120,11 @@ the dinner party <br>
 
 
 
+![f1](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/ac7ce9fc-b5be-4cec-a24a-14d80f1af8df)
+Figure1: We have created a new file ```akrkparty.js``` to deploy the above code <br>
+
+
+
 
 
 
