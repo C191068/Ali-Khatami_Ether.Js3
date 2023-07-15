@@ -291,6 +291,11 @@ it some syntax wailting for it basically finish and returns an error if it gets 
 
 
 
+![f2](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/fa2f251a-2da7-4d39-a356-3177f6f1011c)
+figure2: in order to compile our solidity code into our javascript project we need to install solc-js <br>
+for that we have to visit this link https://github.com/ethereum/solc-js
+
+
 
 
 
