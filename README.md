@@ -306,6 +306,9 @@ Many organizations also use npm to manage private development.<br>
 ![f4](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/3d27d346-7789-4805-b34d-50dd42965475)
 Figure4: Another thing also gets installed and thatis corepack <br>
 
+![f5](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/c44632f7-a853-4833-81a0-0c8e280f1f24)
+
+Figure5: Another way to include solidity is by going to thsu link https://classic.yarnpkg.com/en/docs/getting-started <br>
 
 
 
