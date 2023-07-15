@@ -167,6 +167,30 @@ If any of the function inside ```function arrangedinnerparty()``` suppose ```coo
 
 we have to tell our code to wait until the the fried chicken is fully cooked <br>
 
+```javascript
+
+//Arrange Dinner party
+//Cook Fried Chicken
+//Pour Water
+//Start party
+
+function arrangedinnerparty() {
+  let status = cookfriedchicken();
+  pourwater();
+}
+
+function cookfriedchicken() {
+  return Promise();
+}
+
+```
+
+We have set status to ```cookfriedchicken()``` function , if the chicken is being cooked the status is pending<br>
+
+if the cooking of the fried chicken is finished , the status is fulfilled <br>
+
+if the gas stove explode for any reason the status is rejected <br>
+
 
 
 
