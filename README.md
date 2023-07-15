@@ -193,7 +193,7 @@ if the gas stove explode for any reason the status is rejected <br>
 
 here below we gain change our code :
 
-```
+```javascript 
 
 //Arrange Dinner party
 //Cook Fried Chicken
@@ -217,6 +217,32 @@ function cookfriedchicken() {
 In the above code ```startparty()``` function will only be called if the ```cookfriedchicken()``` and ```pourwater()``` <br>
 
 have been executed <br>
+
+here below we amde another change <br>
+
+```javascript
+
+//Arrange Dinner party
+//Cook Fried Chicken
+//Pour Water
+//Start party
+
+async function arrangedinnerparty() {
+  await cookfriedchicken();
+  pourwater();
+  startparty();
+}
+
+function cookfriedchicken() {
+  return Promise();
+}
+
+```
+
+here we made ```function arrangedinnerparty()``` function to asynchronous function and then use ```await``` keyword <br>
+
+```await``` keyword tells any ```Promise``` based function to wait until the ```Promise``` is fulfilled or rejected <br>
+
 
 
 
