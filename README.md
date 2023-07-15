@@ -124,6 +124,22 @@ the dinner party <br>
 Figure1: We have created a new file ```akrkparty.js``` to deploy the above code <br>
 
 
+the code is given below:
+
+```javascript
+
+//Arrange Dinner party
+//Cook Fried Chicken
+//Pour Water
+//Start party
+
+function arrangedinnerparty() {
+  cookfriedchicken();
+  pourwater();
+}
+
+```
+
 
 
 
