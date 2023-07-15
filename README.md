@@ -310,6 +310,9 @@ Figure4: Another thing also gets installed and thatis corepack <br>
 
 Figure5: Another way to include solidity is by going to thsu link https://classic.yarnpkg.com/en/docs/getting-started <br>
 
+![f6](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/e2411b4e-be28-46f2-8375-def38c15d894)
+
+Figure6: Use quotes (double or single) to go to the folder or path contains white spaces or special symbols.<br>
 
 
 
