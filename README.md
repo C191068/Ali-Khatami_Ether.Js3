@@ -252,6 +252,45 @@ we have to wait until the contract is deployed <br>
 
 if we don't use asynchronous function it means we are not waiting until the contract is deployed <br>
 
+we ahve also made following changes in the code below:
+
+```javascript
+
+async function main() {
+  console.log("Khatami");
+
+  let variable = 5;
+  console.log(variable);
+}
+
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
+
+```
+
+
+We have add the following in the code above:
+
+
+```javascript
+
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
+
+```
+
+it some syntax wailting for it basically finish and returns an error if it gets <br>
+
+
+
 
 
 
