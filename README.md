@@ -315,6 +315,11 @@ Figure5: Another way to include solidity is by going to thsu link https://classi
 Figure6: Use quotes (double or single) to go to the folder or path contains white spaces or special symbols.<br>
 
 
+![f7](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/ab969e79-f76f-4c27-9f79-ce2314ef9176)
+
+Figure7: We have to open powershell as administrator and run the command ```corepack enable``` <br>
+after that if we typed ```yarn --version``` the above error will be displayed <br>
+
 
 
  
