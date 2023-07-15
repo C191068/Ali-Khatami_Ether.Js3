@@ -303,6 +303,10 @@ It is a library and registry for javascript software packages <br>
 The registry contains over 800,000 code packages.Open-source developers use npm to share software.<br>
 Many organizations also use npm to manage private development.<br>
 
+![f4](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/3d27d346-7789-4805-b34d-50dd42965475)
+Figure4: Another thing also gets installed and thatis corepack <br>
+
+
 
 
 
