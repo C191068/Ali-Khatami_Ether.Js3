@@ -229,13 +229,14 @@ here below we amde another change <br>
 
 async function arrangedinnerparty() {
   await cookfriedchicken();
-  pourwater();
+  await pourwater();
   startparty();
 }
 
 function cookfriedchicken() {
   return Promise();
 }
+
 
 ```
 
