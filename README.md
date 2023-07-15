@@ -250,6 +250,8 @@ here we made ```function arrangedinnerparty()``` function to asynchronous functi
 In most of the cases we will be working with asynchronous function because  when we deploy a contract <br>
 we have to wait until the contract is deployed <br>
 
+if we don't use asynchronous function it means we are not waiting until the contract is deployed <br>
+
 
 
 
