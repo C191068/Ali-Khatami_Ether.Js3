@@ -244,6 +244,9 @@ here we made ```function arrangedinnerparty()``` function to asynchronous functi
 
 ```await``` keyword tells any ```Promise``` based function to wait until the ```Promise``` is fulfilled or rejected <br>
 
+```await``` keyword can only be used inside asynchronous function <br>
+
+
 
 
 
