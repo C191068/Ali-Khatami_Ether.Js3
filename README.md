@@ -295,7 +295,13 @@ it some syntax wailting for it basically finish and returns an error if it gets 
 figure2: in order to compile our solidity code into our javascript project we need to install solc-js <br>
 for that we have to visit this link https://github.com/ethereum/solc-js
 
+![f3](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/df848880-e2ca-4d2a-b3c2-8779585772f5)
 
+Figure3: while we install Node.js , npm(node package manager) is automatically installed <br>
+
+It is a library and registry for javascript software packages <br>
+The registry contains over 800,000 code packages.Open-source developers use npm to share software.<br>
+Many organizations also use npm to manage private development.<br>
 
 
 
