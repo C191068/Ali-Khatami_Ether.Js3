@@ -191,6 +191,33 @@ if the cooking of the fried chicken is finished , the status is fulfilled <br>
 
 if the gas stove explode for any reason the status is rejected <br>
 
+here below we gain change our code :
+
+```
+
+//Arrange Dinner party
+//Cook Fried Chicken
+//Pour Water
+//Start party
+
+function arrangedinnerparty() {
+  cookfriedchicken();
+  pourwater();
+  startparty();
+  
+}
+
+function cookfriedchicken() {
+  return Promise();
+}
+
+
+```
+
+In the above code ```startparty()``` function will only be called if the ```cookfriedchicken()``` and ```pourwater()``` <br>
+
+have been executed <br>
+
 
 
 
