@@ -247,6 +247,9 @@ here we made ```function arrangedinnerparty()``` function to asynchronous functi
 ```await``` keyword can only be used inside asynchronous function <br>
 
 
+In most of the cases we will be working with asynchronous function because  when we deploy a contract <br>
+we have to wait until the contract is deployed <br>
+
 
 
 
