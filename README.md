@@ -324,6 +324,11 @@ after that if we typed ```yarn --version``` the above error will be displayed <b
 
 Figure8: to solve the problem we have to use the above command and thus we see the version number of yarn <br>
 
+![f9](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/2c7b3f14-a410-41d2-b1a2-365d9db9e75d)
+
+Figure9: To add solidity compiler we add the above commands shown with position number <br>
+
+
 
  
 
