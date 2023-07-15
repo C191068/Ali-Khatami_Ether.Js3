@@ -320,6 +320,9 @@ Figure6: Use quotes (double or single) to go to the folder or path contains whit
 Figure7: We have to open powershell as administrator and run the command ```corepack enable``` <br>
 after that if we typed ```yarn --version``` the above error will be displayed <br>
 
+![f8](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/61929292-56ac-4b0b-84b0-3923693c5ebb)
+
+Figure8: to solve the problem we have to use the above command and thus we see the version number of yarn <br>
 
 
  
