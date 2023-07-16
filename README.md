@@ -394,8 +394,15 @@ In this case, it indicates that it should search for imports in the node_modules
 
 ```-o period``` means we gonna compile binary and abi to this folder  ```E:\akrkethjs\akrkethers-simple-storage``` <br>
 
+![f19](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/0a6d30a7-3521-43ea-b637-ba6840c56789)
 
- 
+ Figure19: here we get abi(application binary interface) of our contract <br>
+
+ ![f20](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/5b8b8024-d390-412a-927b-433b0327b725)
+
+Figure20: then we get the binary or the low level format of our code <br>
+
+
 
  
 
