@@ -353,6 +353,10 @@ Figure14: to add version 0.8.7 we ahve to give the above command <br>
 Figure15: In our pacakge.json file we can see 0.8.7 is fixed <br>
 
 
+ We can compile our smart contract in code and have it automatically run when we deploy them <br>
+
+ We can compile them separately <br>
+
  
 
  
