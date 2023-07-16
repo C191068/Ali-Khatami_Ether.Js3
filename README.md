@@ -365,6 +365,9 @@ Figure15: In our pacakge.json file we can see 0.8.7 is fixed <br>
 
 Figure16: if we want to see all the command that solc.js allow we run the above command <br>
 
+![f17](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/a0495465-7388-47bd-a41d-acd710ecd131)
+
+Figure17: If we want to check the version then we write the above command <br>
 
 
  
