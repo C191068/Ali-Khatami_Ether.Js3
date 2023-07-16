@@ -410,10 +410,15 @@ Figure21: If we click the upper arrow button of the keyboard by selecting the co
 
  Figure22: We can get the recent command of the console <br>
 
- ![f23](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/9d7e05c0-6229-4547-9541-72e7e8273d29)
+ ![f23](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/569d43c1-7fe8-4072-88a9-ac465486795e)
+
 
  Figure23: Instead of typing the compile command again and again we can go to package.json file and paste <br>
  the following code as shown above  <br>
+
+then we will write ```yarn compile``` command and our contract wil be compiled automatically <br>
+
+
  ```
 "scripts": {
     "compile":"yarn solcjs --bin --abi --allow-paths node_modules/ --base-path . -o . akrkSimplestorage.sol"
