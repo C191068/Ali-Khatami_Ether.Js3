@@ -369,8 +369,15 @@ Figure16: if we want to see all the command that solc.js allow we run the above 
 
 Figure17: If we want to check the version then we write the above command <br>
 
+![f18](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/bd998da5-61b9-438d-870a-15408d4d574a)
+
+ Figure18: to compile our solidity smart contract we have to give the following command <br>
+
+ ```yarn solcjs --bin --abi --allow-paths node_modules/ --base-path . -o . akrkSimplestorage.sol``` <br>
+
 
  
+
  
 
 
