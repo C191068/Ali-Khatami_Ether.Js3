@@ -348,6 +348,9 @@ Figure13: here is a ```solc``` folder where it contains all the code associated 
 
 Figure14: to add version 0.8.7 we ahve to give the above command <br>
 
+![f15](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/796a1515-8580-444d-bd20-7933acf0fad2)
+
+Figure15: In our pacakge.json file we can see 0.8.7 is fixed <br>
 
 
  
