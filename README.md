@@ -361,8 +361,11 @@ Figure15: In our pacakge.json file we can see 0.8.7 is fixed <br>
 
  yarn command can be used to install dependencies and can be used to run commands <br>
 
+ ![f16](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/6c8c6bf8-6445-4028-988b-f5398363b6d2)
 
- 
+Figure16: if we want to see all the command that solc.js allow we run the above command <br>
+
+
 
  
  
