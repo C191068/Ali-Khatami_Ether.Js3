@@ -357,6 +357,8 @@ Figure15: In our pacakge.json file we can see 0.8.7 is fixed <br>
 
  We can compile them separately <br>
 
+ Here we gonna compile our contract separately using solc js command <br>
+
  
 
  
