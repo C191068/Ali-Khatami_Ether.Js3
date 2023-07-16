@@ -375,6 +375,25 @@ Figure17: If we want to check the version then we write the above command <br>
 
  ```yarn solcjs --bin --abi --allow-paths node_modules/ --base-path . -o . akrkSimplestorage.sol``` <br>
 
+Here in the above :
+
+```yarn solcjs```: This is the command to run the solcjs executable using Yarn. solcjs is the Solidity compiler provided by the Solidity team.<br>
+
+```--bin```: This option tells the Solidity compiler to generate binary bytecode for the smart contract. The binary bytecode represents the<br>
+executable code that can be deployed to the Ethereum network.<br>
+
+```--abi```: This option instructs the Solidity compiler to generate the Application Binary Interface (ABI) for the smart contract. <br>
+The ABI is a JSON representation of the contract's functions and their input/output parameters, which is used for interacting with the <br>
+contract.
+
+```--allow-paths node_modules/:``` This option specifies the path(s) where the Solidity compiler should look for imported Solidity files.<br>
+
+In this case, it indicates that it should search for imports in the node_modules/ directory.<br>
+
+```--base-path period``` means that base path gonna be in thsi folder ```E:\akrkethjs\akrkethers-simple-storage``` <br>
+
+```-o period``` means we gonna compile binary and abi to this folder  ```E:\akrkethjs\akrkethers-simple-storage``` <br>
+
 
  
 
