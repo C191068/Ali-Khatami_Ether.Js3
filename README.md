@@ -402,7 +402,13 @@ In this case, it indicates that it should search for imports in the node_modules
 
 Figure20: then we get the binary or the low level format of our code <br>
 
+![f21](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/a81139c0-ccb4-42d3-a08c-a086ae775c48)
 
+Figure21: If we click the upper arrow button of the keyboard by selecting the console <br>
+
+![f22](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/46bf7e5c-4794-4d5c-a4d4-666e6e99b0ef)
+
+ Figure22: We can get the recent command of the console <br>
 
  
 
