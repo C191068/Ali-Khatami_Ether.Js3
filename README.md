@@ -335,6 +335,10 @@ Figure10: it automatically added package.json folder , it talks lot about our pr
 ![f11](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/4eedc8b9-b827-4de2-8496-75cd37eb1fe9)
 
  Figure11: yarn.lock tells us the exact version of the package of our project <br>
+ 
+![f12](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/73bd1398-5057-4325-9a60-ae912baa0d89)
+
+Figure12: here node modules folder is going to be all the installed code we have downloaded <br>
 
 
  
