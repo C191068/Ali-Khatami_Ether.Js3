@@ -359,6 +359,9 @@ Figure15: In our pacakge.json file we can see 0.8.7 is fixed <br>
 
  Here we gonna compile our contract separately using solc js command <br>
 
+ yarn command can be used to install dependencies and can be used to run commands <br>
+
+
  
 
  
