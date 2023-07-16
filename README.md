@@ -344,6 +344,9 @@ Figure12: here node modules folder is going to be all the installed code we have
 
 Figure13: here is a ```solc``` folder where it contains all the code associated with solc package that we have installed <br>
 
+![f14](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/88afbe36-3deb-43bd-b814-4be2b8f92329)
+
+Figure14: to add version 0.8.7 we ahve to give the above command <br>
 
 
 
