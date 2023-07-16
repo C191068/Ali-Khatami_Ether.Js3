@@ -336,12 +336,14 @@ Figure10: it automatically added package.json folder , it talks lot about our pr
 
  Figure11: yarn.lock tells us the exact version of the package of our project <br>
  
-![f12](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/73bd1398-5057-4325-9a60-ae912baa0d89)
+![f12](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/0828067f-3099-44f8-9668-defe74f333f4)
 
 Figure12: here node modules folder is going to be all the installed code we have downloaded <br>
 
+![f13](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/72165b4e-65f0-4007-81de-9b658b0b2958)
 
- 
+Figure13: here is a ```solc``` folder where it contains all the code associated with solc package that we have installed <br>
+
 
 
 
