@@ -322,6 +322,14 @@ after that if we typed ```yarn --version``` the above error will be displayed <b
 
 ![f8](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/61929292-56ac-4b0b-84b0-3923693c5ebb)
 
+```
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+
+```
+
+
+
 Figure8: to solve the problem we have to use the above command and thus we see the version number of yarn <br>
 
 ![f9](https://github.com/C191068/Ali-Khatami_Ether.Js3/assets/89090776/2c7b3f14-a410-41d2-b1a2-365d9db9e75d)
